@@ -1,0 +1,1 @@
+select * from RAW.DBT_SPATEL.RAW_Product
